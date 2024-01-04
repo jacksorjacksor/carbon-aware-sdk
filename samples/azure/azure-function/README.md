@@ -11,7 +11,7 @@ return the carbon intensity rate of a location for a specific timespan.
 specified location and duration.
 
 The functions can run locally for debugging or be deployed to Azure. See the
-[data source configuration docs](../../docs/configuration.md#datasources) for
+[data source configuration docs](configuration.md) for
 detailed information about configuring the data source(s) your Azure Function
 will use.
 
